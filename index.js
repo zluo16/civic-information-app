@@ -1,5 +1,5 @@
 
-const apiKey = 'AIzaSyAhJvS-bFk3pfLbA9lJSItIs2dIr2RPrE0'
+const apiKey = 'YOU_API_KEY'
 
 document.addEventListener('DOMContentLoaded', function(event) {
   getCivicInfo()
